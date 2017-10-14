@@ -16,3 +16,4 @@ git checkout -b develop
 php artisan key:generate
 php artisan config:clear
 php artisan config:cache
+cd $1
